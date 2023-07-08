@@ -31,4 +31,4 @@ Explore the project, delve into the analysis, and feel free to reach out if you 
 
 In a dynamic market with increasing demands and fierce competition, a Superstore Giant is eager to tap into your expertise. They are seeking insights on optimal strategies for success, specifically in identifying target products, regions, categories, and customer segments to prioritize or avoid. Your knowledge and analysis will be instrumental in guiding their decision-making and driving their competitive advantage.
 
-!(Imgae/Screenshot 2023-07-08 171815.png)
+![Distribution](Imgae/Screenshot 2023-07-08 171815.png)
