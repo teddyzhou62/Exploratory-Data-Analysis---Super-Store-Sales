@@ -25,3 +25,10 @@ Welcome to the Exploratory Data Analysis - Super Store Sales project! This proje
 Explore the project, delve into the analysis, and feel free to reach out if you have any questions or would like to collaborate on similar data-driven projects. Let's uncover valuable insights together!
 
 *Note: This project is based on a fictional dataset and is for educational purposes only.*
+
+
+## Business Understanding 
+
+In a dynamic market with increasing demands and fierce competition, a Superstore Giant is eager to tap into your expertise. They are seeking insights on optimal strategies for success, specifically in identifying target products, regions, categories, and customer segments to prioritize or avoid. Your knowledge and analysis will be instrumental in guiding their decision-making and driving their competitive advantage.
+
+!(Imgae/Screenshot 2023-07-08 171815.png)
