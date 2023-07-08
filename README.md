@@ -64,15 +64,15 @@ Evaluate the significance of each sub-category in driving the overall revenue an
 
 By answering these questions, we can gain valuable insights into the SuperStore's top customers, popular and underperforming product categories, and the overall contribution of sub-categories to sales. This analysis will provide actionable information to optimize customer targeting, product assortment, and sales strategies to drive business growth and profitability.
 
-![Distribution](Imgae/Screenshot 2023-07-08 171815.png)
+![Distribution](Imgae/234.jpg)
 
 In the context of the Super Store, sorting by region and order count reveals interesting insights about sales distribution. The analysis indicates that the Central region leads with the highest sales, followed by the South, EMEA (Europe, Middle East, and Africa), North, and Caribbean. Canada represents the region with the lowest order count. This information provides valuable knowledge about sales performance across different regions, enabling informed decision-making regarding resource allocation, target markets, and potential growth opportunities.
 
-![Top Ten](Imgae/Screenshot 2023-07-08 172324.png)
+![Top-Ten](Imgae/3123.jpg)
 
 Exploring the top 10 customers of the SuperStore within the Central region and understanding their profit distribution is crucial for prioritizing customer relationships, maximizing profitability, allocating resources effectively, segmenting customers, and evaluating sales and marketing performance. Identifying the most profitable customers allows for tailored strategies, personalized experiences, and targeted offers, while resource allocation ensures dedicated support for key customers. Analyzing profit distribution helps segment customers by profitability, driving revenue growth through optimized marketing approaches. Evaluating the effectiveness of sales and marketing efforts enables data-driven decision-making, refining strategies, and enhancing overall business performance.
 
-![Top Ten](Imgae/Screenshot 2023-07-08 172356.png)
+![sub-cat](Imgae/123124.jpg)
 
 Based on the analysis of the Super Store data, it is evident that binders are the most popular sub-category, followed by storage products, art supplies, and paper. These products exhibit a strong demand among customers, indicating their importance in the store's offerings. On the other hand, sub-categories such as copiers, appliances, machines, and tables are identified as the least popular. This information highlights areas where the Super Store may need to evaluate their product offerings, marketing strategies, and customer targeting to drive sales and improve profitability. By understanding the popularity of different sub-categories, the store can make informed decisions about inventory management, promotions, and product development to align with customer preferences and maximize revenue.
 
