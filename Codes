@@ -1,0 +1,50 @@
+#exploratory data analysis project from the scratch
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
+%matplotlib inline
+
+#data preparation
+df = pd.read_csv('/kaggle/input/superstore-sales-dataset/SuperStoreOrders.csv')
+df.head()
+
+
+#Check for Duplicate
+df[df.duplicated()]
+
+
+#Data types of Colume
+df.dtypes
+
+
+#Distinct Value
+df.nunique()
+
+#sort by region and order count
+sns.set(rc={'figure.figsize':(15,9)})
+sns.countplot(x='region', data=df, order=df['region'].value_counts().index)
+
+
+#Q1: Who are the Top 10 Customers of the SuperStore within Central and How much is their Repartition of the Profit?
+df_central = df[df['region'] == 'Central']
+df_central['customer_name'].value_counts()[:10].plot(kind='barh', title='Top 10 Customers in Central Region')
+
+
+#Q2: What are the Highest selling and Lowest Selling Sub-Category?
+
+subcat_counts = df['sub_category'].value_counts()
+subcat_counts_sorted = subcat_counts.sort_values(ascending=False)
+
+plt.figure(figsize=(12,6))
+sns.countplot(x=df['sub_category'], order=subcat_counts_sorted.index)
+plt.xticks(rotation=90)
+plt.title('Sub-Category Counts')
+plt.show()
+
+
+#How much each Sub-Category is contributing in Sales of SuperStore?
+
+subcat_profit = df.groupby('sub_category')['profit'].sum().sort_values(ascending=False)
+print(subcat_profit.head(10))
