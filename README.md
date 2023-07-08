@@ -40,7 +40,7 @@ Data Loading: Import the Super Store sales data from the provided CSV file into 
 Handling Missing Data: Identify and handle any missing values in the dataset, either by imputing missing values or removing incomplete records.
 Data Cleaning: Remove any irrelevant or redundant data from the dataset and correct any inconsistencies or errors.
 
-![Store-image](Imgae/Screenshot 2023-07-08 172245.png)
+![Data-Cleaning](Imgae/Screenshot 2023-07-08 175828.jpg)
 
 df = pd.read_csv('/kaggle/input/superstore-sales-dataset/SuperStoreOrders.csv')
 
