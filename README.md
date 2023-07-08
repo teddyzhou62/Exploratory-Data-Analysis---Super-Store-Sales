@@ -2,6 +2,8 @@
 
 Welcome to the Exploratory Data Analysis - Super Store Sales project! This project focuses on analyzing the sales data of a fictional super store to gain insights and inform business strategies.
 
+![Icon](Imgae/99999.jpg)
+
 ## Business Understanding 
 
 In a dynamic market with increasing demands and fierce competition, a Superstore Giant is eager to tap into your expertise. They are seeking insights on optimal strategies for success, specifically in identifying target products, regions, categories, and customer segments to prioritize or avoid. Your knowledge and analysis will be instrumental in guiding their decision-making and driving their competitive advantage.
