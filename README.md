@@ -57,7 +57,7 @@ By answering these questions, we can gain valuable insights into the SuperStore'
 
 ## Visualization: 
 
-![Distribution](pic/Screenshot 2023-07-28 001425.jpg)
+![Distribution](pic/123456789.jpg)
 
 In the context of the superstore, the majority of sales are concentrated in the South region. However, when considering sales across all four regions in the US, the distribution is relatively even. This indicates that the South region is a significant contributor to the overall sales, but the store's presence and performance are relatively balanced across all regions. This information can be valuable for the store's strategic decision-making, such as focusing on specific areas to increase market share or exploring growth opportunities in other regions to further diversify the business and capture a broader customer base.
 
